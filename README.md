@@ -13,7 +13,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in C++.
 - *Winning Logic*: Automatically detects and announces the winner or a draw.
 - *Interactive*: User-friendly interface for input and output.
 ## How to Run
-
+https://github.com/vedapriya17/tictactoe_internpe/assets/140573640/e89b69a2-5d81-498e-937a-c3eaba113638
 
 ## Usage
 
